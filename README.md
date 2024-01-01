@@ -15,6 +15,8 @@ Here, you'll find all the Jupyter notebooks or equivalent scripts that were used
 ### Trained_models
 
 This folder stores the trained models that are ready for inference. These models have been trained on the dataset and can now be used to predict the emotion expressed in new images of human faces.
+For VGGNet model  please see at
+https://drive.google.com/file/d/16RwxXXAGNeUi0vdZyZJqlbpz-G0rABK0/view?usp=drive_link
 
 ## Getting Started
 
