@@ -7,6 +7,9 @@ This project focuses on the task of recognizing human emotions from facial expre
 ### Dataset
 
 This folder contains the datasets used for training and validation. It includes image data that the models will use to learn how to recognize and classify different facial expressions.
+This project utilizes the FER-2013 dataset, a widely-used facial expression recognition dataset available on Kaggle. The dataset is designed for training and evaluating models for emotion recognition based on facial expressions.
+
+**Source** https://www.kaggle.com/datasets/msambare/fer2013
 
 ### Models
 
