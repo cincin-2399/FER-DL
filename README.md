@@ -39,3 +39,6 @@ To perform emotion recognition on an image:
 3. Preprocess the input image as required by the model.
 4. Use the model to predict the emotion expressed in the image.
 
+## Presentation
+The slide we use for presentation is in this below link
+https://docs.google.com/presentation/d/1PjQ0-6kTPYyG-mVXBPKyz4_M7TAYTLuZ-AogO9jMtD0/edit?usp=sharing
