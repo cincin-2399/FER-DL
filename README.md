@@ -17,6 +17,8 @@ Here, you'll find all the Jupyter notebooks or equivalent scripts that were used
 This folder stores the trained models that are ready for inference. These models have been trained on the dataset and can now be used to predict the emotion expressed in new images of human faces.
 For ResNet model  please see at
 (https://drive.google.com/drive/folders/1D-ru22Pqw-atxJMqfn_nVLJJLd4I8O2E?usp=drive_link)
+For ViT model please see at
+https://drive.google.com/file/d/16ODj_rbaowpSst8bIp9vzwtjBgFHPKEk/view?usp=sharing
 
 ## Getting Started
 
