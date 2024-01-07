@@ -13,7 +13,7 @@ This project utilizes the FER-2013 dataset, a widely-used facial expression reco
 
 ### Models
 
-Here, you'll find all the Jupyter notebooks or equivalent scripts that were used for training the machine learning models. These notebooks include the implementation of various neural network architectures, data preprocessing, and training procedures.
+Here, you'll find all the Jupyter notebooks or equivalent scripts that were used for training the deep learning models. These notebooks include the implementation of various neural network architectures, data preprocessing, and training procedures.
 
 ### Trained_models
 
